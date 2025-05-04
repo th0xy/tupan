@@ -14,7 +14,6 @@
 #include "client.h"
 #include "request.h"
 
-
 static void 
 on_client_connected(int client_fd) 
 {
